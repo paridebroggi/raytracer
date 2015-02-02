@@ -5,7 +5,7 @@ A basic plain C raytracer engine.
 
 ## Install
 This ray tracer uses Minilibx graphic library: an opensource, didactic-purpose oriented library (included in the repository).
-You need a xServer to run the program. For Mac OSX I check [XQuartz](http://xquartz.macosforge.org/landing/).
+You need a xServer to run the program. For Mac OSX, please see [XQuartz](http://xquartz.macosforge.org/landing/).
 
 ```
 Usage: ./rt [scene description file]
