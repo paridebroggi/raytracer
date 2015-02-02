@@ -1,0 +1,16 @@
+.window w:1200 h:800 fov:66 amb_light:2
+.eye x:-150 y:150 z:0 rot_x:0 rot_y:0 rot_z:-45
+.eye x:-100 y:0 z:0 rot_x:0 rot_y:0 rot_z:0
+
+.light x:-100 y:-50 z:10 col_r:255 col_g:255 col_b:255
+.light x:-100 y:50 z:10 col_r:255 col_g:255 col_b:255
+
+.sphere x:0 y:25 z:0 rot_x:0 rot_y:0 rot_z:0 radius:15 col_r:225 col_g:0 col_b:0 bright:10 cut:0 reflex:0 trans:0
+.sphere x:0 y:-25 z:0 rot_x:0 rot_y:0 rot_z:0 radius:15 col_r:0 col_g:255 col_b:0 bright:10 cut:0 reflex:0 trans:0
+
+.cone x:15 y:-10 z:10 rot_x:-45 rot_y:0 rot_z:0 height:0 angle:10 col_r:255 col_g:255 col_b:0 bright:10 reflex:0 trans:0
+
+.cylinder x:15 y:30 z:0 rot_x:45 rot_y:0 rot_z:0 radius:10 height:0 col_r:255 col_g:0 col_b:255 bright:10 reflex:0 trans:0
+
+.plane x:500 y:0 z:0 rot_x:0 rot_y:-90 rot_z:0 col_r:0 col_g:0 col_b:255 bright:2 chessboard:0 reflex:0 trans:0
+.plane x:0 y:0 z:-15 rot_x:0 rot_y:0 rot_z:0 col_r:150 col_g:150 col_b:150 bright:0 chessboard:0 reflex:0 trans:0
